@@ -29,5 +29,3 @@ This is a basic description of the scripts.
             
             
 ####################These are examples, any improvement or change feel free to recommend or contact me.####################
-
-theme: jekyll-theme-cayman
